@@ -25,7 +25,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=py,cs,c,cpp,md,raspberrypi,vscode" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,cloudflare,postgres,supabase,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,cloudflare,supabase,postgres,mysql" />
 </div>
 
 <br/>
