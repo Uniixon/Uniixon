@@ -12,7 +12,7 @@
   
 🔭 I’m currently working on [ResuGen](https://github.com/LeeKrane/ResuGen)
 
-🌱 I’m currently learning **Nuxt**
+🌱 I’m currently learning **Nuxt** and **Supabase**
 
 💬 Ask me about **Nuxt** or **smth else**
 
@@ -25,7 +25,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=py,cs,c,cpp,md,raspberrypi,vscode" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,cloudflare,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,cloudflare,postgres,supabase,mysql" />
 </div>
 
 <br/>
